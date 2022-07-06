@@ -1,0 +1,194 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+#h1-tag3 {
+    font-size: 60px;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 30%;
+    color: white;
+}
+
+#h1-tag4 {
+    font-size: 40px;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 30%;
+    color: black;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+h4 {
+    font-size: 20px;
+}
+
+.top-banner1 {
+    padding: 5%;
+    height: 400px;
+    background-image: url(images/cover.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.top-banner1 p {
+    padding-bottom: 3%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    padding: 20px 50px;
+    color: white;
+    font-weight: 700px;
+    border-radius: 5px;
+
+}
+
+
+
+.donate1 {
+    font-size: 120%;
+    padding-top: 10%;
+    padding-bottom: 3%;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: gray;
+}
+
+.donate-today1 {
+    text-align: center;
+}
+
+.flexible-container1 {
+    display: flex;
+    margin-bottom: 150px;
+    padding-left: 20%;
+    padding-right: 50%;
+
+}
+
+.amount-select1 {
+    width: 60%;
+    margin: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 20px 600px gray;
+    border-radius: 5px;
+    color: gray;
+
+}
+
+.amount-select1 {
+    border: 5px solid red;
+    background-image: linear-gradient(rgb(188, 118, 106), rgb(223, 151, 138));
+    color: red;
+}
+
+.line1 {
+    margin-bottom: 2%;
+}
+
+.amount-tk1 {
+    color: gray;
+}
+
+.donate-plan1 {
+    padding-top: 10%;
+    text-align: center;
+}
+
+.donate-plan1 p {
+    color: rgb(146, 142, 142);
+}
+
+.our-donate-plan1 {
+    color: rgb(146, 142, 142);
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.flexible-container2 {
+    display: flex;
+    margin-bottom: 150px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
+}
+
+.family-item1 {
+    padding: 3%;
+    margin: 2%;
+    text-align: justify;
+    border-radius: 5px;
+}
+
+#food-for-a-family1 {
+    background-color: rgb(235, 212, 212);
+}
+
+#shelter-for-a-family1 {
+    background-color: rgb(239, 205, 231);
+}
+
+#education-for-a-child1 {
+    background-color: rgb(245, 230, 207);
+}
+
+
+
+.my-update {
+    text-align: center;
+}
+
+.subscribe-to {
+
+    display: flex;
+    padding-top: 4%;
+    padding-left: 20%;
+    padding-right: 10%;
+    width: 40%;
+    padding-bottom: 3%;
+    background-color: blanchedalmond;
+
+    margin-right: 5%;
+}
+
+#email {
+    border-radius: 20px;
+    padding-top: 5%;
+    padding-right: 50%;
+    padding-left: 3%;
+    color: gray;
+    margin-right: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#subscribe {
+    padding: 5%;
+    border-radius: 15px;
+    margin-right: 10px;
+    background-color: rgb(171, 7, 7);
+    color: white;
+
+    box-shadow: 10px 10px 40px gray;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(86, 5, 22);
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
